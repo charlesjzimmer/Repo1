@@ -19,7 +19,7 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //This is a comment!
+            //This is not a useful comment.
         }
     }
 }
